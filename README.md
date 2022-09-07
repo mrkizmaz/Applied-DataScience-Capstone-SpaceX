@@ -5,6 +5,8 @@
 
 **Purpose of the repo:** Real-time dashboard application using the data of SpaceX, a space transportation company, under the roof of the materials I acquired during the whole course.
 
+*You can review the **pdf** file that I have prepared with the application details <a href="https://drive.google.com/file/d/1pUt-anU0elJrcOk_J7hrLEn6YrqRRCl-/view?usp=sharing" target="_blank">here.</a>*
+
 ### Valuable knowledge gained in the course:
 - Data Science Methodology
 - Python Structere and Fundamentals
