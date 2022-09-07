@@ -1,4 +1,4 @@
-## Applied Data Science Capstone - SpaceX
+# Applied Data Science Capstone - SpaceX
 
 > This repository is the final project of the <a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank">IBM Data Science</a> course I took from the online education platform Coursera.
 <br/>Thanks for all the support and encouragement for all Coursera teams!
