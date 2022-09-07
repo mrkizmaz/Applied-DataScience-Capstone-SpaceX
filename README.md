@@ -9,7 +9,7 @@
 
 ### Valuable knowledge gained in the course:
 - Data Science Methodology
-- Python Structere and Fundamentals
+- Python Structure and Fundamentals
 - Data Analysis with Python
 - Data Visualization with Python
 - Machine Learning with Python
